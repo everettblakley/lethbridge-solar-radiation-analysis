@@ -1,0 +1,1 @@
+# lethbridge-solar-radiation-analysis
